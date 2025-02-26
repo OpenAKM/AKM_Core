@@ -1,4 +1,4 @@
-# AKM Cyber Corp
+# OpenAKM
 ![logo](images/AKMCyberLogo.png)
 
 ## AKM_Core
